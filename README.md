@@ -19,9 +19,6 @@ Es una herramienta diseñada para estudiar cómo dos o más sistemas (ej. atract
 
 *(¡MUY IMPORTANTE! Sube tus capturas de pantalla al repositorio y reemplaza esto)*
 
-| Vista Principal (Atractores 3D) | Diálogo de Análisis de Restas |
-| :---: | :---: |
-| `![Vista Principal](ruta/a/tu/imagen1.png)` | `![Análisis de Restas](ruta/a/tu/imagen2.png)` |
 
 ## Tecnologías Utilizadas
 
