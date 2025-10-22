@@ -15,10 +15,6 @@ Es una herramienta diseñada para estudiar cómo dos o más sistemas (ej. atract
     4.  Guarda los resultados (`a` vs. `error_max`) en un archivo `log.csv` para su posterior análisis.
 * **Gestión de Proyectos:** Permite guardar y cargar configuraciones de modelos complejos en archivos `.json`.
 
-## Capturas de Pantalla
-
-*(¡MUY IMPORTANTE! Sube tus capturas de pantalla al repositorio y reemplaza esto)*
-
 
 ## Tecnologías Utilizadas
 
